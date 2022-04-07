@@ -1,14 +1,10 @@
 <h1 align="center">Hi 👋, I'm Marcus</h1>
 
 <br>
-
 <a href="https://discord.com/users/228606092588875776">
   <img src="https://lanyard-profile-readme.vercel.app/api/228606092588875776?hideTimestamp=true&idleMessage=Just%20chillin'%20at%20the%20moment..." align="right" />
 </a>
-
 <br>
-
-<p><img align="right" src="https://github.com/MarcusDevUK/MarcusDevUK/blob/main/Software-development_01_ani01-2.gif" alt="marcus IMG" /></p>
 
 - 💻5+ Years of software development experience
 - ⌨️ Backend Developer
@@ -40,6 +36,8 @@
       alt="mysql" width="40" height="40" /> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
       alt="nodejs" width="40" height="40" /> </a></p>
+      
+<p><img align="right" src="https://github.com/MarcusDevUK/MarcusDevUK/blob/main/Software-development_01_ani01-2.gif" alt="marcus IMG" /></p>
 
 <br>
 
