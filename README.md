@@ -6,9 +6,7 @@
 - 🌱 I’m currently learning JavaScript & security practices in software.
 - 📫 Contact me Via:
       - Discord: Marcus#1000
-      - Email: marcus@mcadev.co.uk
-
-![secondSFT](https://user-images.githubusercontent.com/31141302/162286270-2f4693cc-7208-4b78-a73f-6f9de0a32c12.png)
+      - Email: marcus@mcadev.co.u
 
 
 
