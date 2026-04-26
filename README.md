@@ -1,16 +1,16 @@
 # Marcus — Cyber Security & Software Development
 
-> UK-based professional working across Cyber Security, software development, and large-scale community management. Building systems since 2017.
+> UK-based professional working across Cyber Security, software development and large-scale community management. Building systems since 2017.
 
 ---
 
 ### About me
 
-- Cyber security practitioner focused on blue teaming, threat analysis, governance, and security culture
-- Backend & freelance developer with 5+ years across Python, Lua, Java, JavaScript, and C#
-- Currently completing a Cyber Security Technical Professional Degree Apprenticeship (2022–2026, averaging a 2:1)
-- Building AI-powered tooling using prompt engineering with Claude, GitHub Copilot, and other LLMs
-- Full stack capable — frontend to infrastructure, Docker to deployment
+- Cyber security practitioner focused on blue teaming, threat analysis, governance and security culture
+- Backend & freelance developer with 5+ years across Python, Lua, Java, JavaScript and C#
+- Currently completing a Cyber Security Technical Professional Degree (2022–2026, averaging a 1:1)
+- Building AI-powered tooling using prompt engineering with Claude, GitHub Copilot and other LLMs
+- Full stack capable - frontend to infrastructure, Docker to deployment
 - Founded and managed multiple online communities with thousands of members each
 - Available for freelance development and security consultations
 - Hobbies: video games, airsoft, films
@@ -54,9 +54,9 @@
 | Cyber Security Technical Professional Degree | In Progress (2022–2026) |
 | CompTIA Security+ | In Progress |
 | CISSP | Planned |
-| SC-900 — Microsoft Security Fundamentals | Planned |
-| SC-200 — Security Operations Analyst | Planned |
-| SC-300 — Identity & Access Admin | Planned |
+| SC-900 - Microsoft Security Fundamentals | Planned |
+| SC-200 - Security Operations Analyst | Planned |
+| SC-300 - Identity & Access Admin | Planned |
 
 ---
 
