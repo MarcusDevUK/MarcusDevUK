@@ -1,61 +1,69 @@
-<h1 align="center">Hi 👋, I'm Marcus</h1>
+# Marcus — Cyber Security & Software Development
 
-<br>
-<a href="https://discord.com/users/228606092588875776">
-  <img src="https://lanyard-profile-readme.vercel.app/api/228606092588875776?hideTimestamp=true&idleMessage=Just%20chillin'%20at%20the%20moment..." align="right" />
-</a>
-<br>
+> UK-based professional working across Cyber Security, software development, and large-scale community management. Building systems since 2017.
 
-- 💻5+ Years of software development experience
-- ⌨️ Backend Developer
-- 🖥️Known Languages: LUA, Python, Java, JavaScript, C#, HTML, CSS
-- 🎮 Hobbys: Video Games, Airsoft, Watching movies.
-- 🌱 I’m currently learning JavaScript & security practices in software.
-- 📫 Contact me Via:
-      - Discord: Marcus#1000
-      - Email: marcus@mcadev.co.uk
+---
 
-<br>
+### About me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-      alt="cplusplus" width="40" height="40" /> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
-      width="40" height="40" /> </a><a href="https://www.w3schools.com/css/" target="_blank"
-    rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
-      width="40" height="40" /> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5" width="40" height="40" /> </a> <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript" width="40" height="40" /> </a> <a href="https://www.lua.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/lua/lua-official.svg" alt="lua" width="40" height="40" />
-  </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql" width="40" height="40" /> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs" width="40" height="40" /> </a></p>
-      
-<p><img align="right" src="https://github.com/MarcusDevUK/MarcusDevUK/blob/main/Software-development_01_ani01-2.gif" alt="marcus IMG" /></p>
+- Cyber security practitioner focused on blue teaming, threat analysis, governance, and security culture
+- Backend & freelance developer with 5+ years across Python, Lua, Java, JavaScript, and C#
+- Currently completing a Cyber Security Technical Professional Degree Apprenticeship (2022–2026, averaging a 2:1)
+- Building AI-powered tooling using prompt engineering with Claude, GitHub Copilot, and other LLMs
+- Full stack capable — frontend to infrastructure, Docker to deployment
+- Founded and managed multiple online communities with thousands of members each
+- Available for freelance development and security consultations
+- Hobbies: video games, airsoft, films
 
-<br>
+---
 
-<br>
+### Languages
 
-<br>
+`Python` `JavaScript` `C#` `Java` `Lua` `HTML` `CSS` `Bash`
 
-<br>
+### Tools & Frameworks
 
-<br>
+`Node.js` `React` `MySQL` `MongoDB` `Docker` `Git` `GitHub` `GitLab` `Linux CLI` `VirtualBox` `VMware`
 
-<br>
+### AI & Prompt Engineering
 
-<br>
+`Claude` `GitHub Copilot` `Prompt Engineering` `AI-Powered Tooling` `Full Stack AI Integration`
 
-------------------------------------------------------------------------------------------------------------------------------------------
+### Cyber Security — Technical
 
-<!---
-MarcusDevUK/MarcusDevUK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+`Kali Linux` `Wireshark` `Nmap` `Metasploit` `Burp Suite` `SIEM` `Microsoft Defender` `AlienVault OTX` `OSINT Framework` `MITRE ATT&CK` `TryHackMe` `Hack The Box`
+
+### Cyber Security — Business & Platform
+
+`KnowBe4` `Forcepoint` `Microsoft Purview` `Microsoft Fabric` `Azure AD / Entra` `Microsoft Graph` `Power BI` `ISMS.online`
+
+### Cyber Security — Focus Areas
+
+`Blue Teaming` `Threat Analysis` `Security Culture & Orange Teaming` `Digital Forensics` `Incident Response` `Governance, Risk & Compliance` `ISO 27001:2022` `ISMS` `MITRE ATT&CK` `OSINT` `Secure Development` `OWASP`
+
+### Game Development
+
+`FiveM` `QBCore` `VMenu` `Roblox` `RedM` `Arma 3`
+
+---
+
+### Certifications & Roadmap
+
+| Qualification | Status |
+|---|---|
+| Cyber Security Technical Professional Degree | In Progress (2022–2026) |
+| CompTIA Security+ | In Progress |
+| CISSP | Planned |
+| SC-900 — Microsoft Security Fundamentals | Planned |
+| SC-200 — Security Operations Analyst | Planned |
+| SC-300 — Identity & Access Admin | Planned |
+
+---
+
+### Contact
+
+- Discord: `mcadev`
+- Email: [marcusukdev@gmail.com](mailto:marcusukdev@gmail.com)
+- Website: [mcadev.co.uk](https://mcadev.co.uk)
+- GitHub: [MarcusDevUK](https://github.com/MarcusDevUK)
+- GitLab: [Syn_UK](https://gitlab.com/Syn_UK)
